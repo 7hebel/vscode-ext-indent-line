@@ -11,6 +11,12 @@
   ],
   "activationEvents": [],
   "main": "./extension.js",
+  "author": "7hebel",
+  "publisher": "gental-py",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/7hebel/vscode-ext-indent-line"
+  },
   "contributes": {
     "commands": [
       {
